@@ -1,0 +1,26 @@
+[
+  {
+    "domain": ".tiktok.com",
+    "expirationDate": 1648676800,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "cookie_name_1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "storeId": "0",
+    "value": "cookie_value_1"
+  },
+  {
+    "domain": ".tiktok.com",
+    "expirationDate": 1648676800,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "cookie_name_2",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "storeId": "0",
+    "value": "cookie_value_2"
+  }
+]
